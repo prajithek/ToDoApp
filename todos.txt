@@ -1,4 +1,11 @@
-Do the laundry.
-Visit the new museum.
-Help the neighbour.
-Clean the bag
+run
+walk
+go
+flow
+going
+hello
+
+new
+clean
+oh my god
+god
